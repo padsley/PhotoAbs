@@ -5,7 +5,7 @@ To calculate a polarisabilty, do:
 
 root
 .L PhotoAbsorptionCalculation.cpp
-PhotoAbsorptionCalculation("data/Zr90.dat") (for example... change the input file to calculate another nucleus apart from 90Zr.
+PhotoAbsorptionCalculation("data/Zr90_gx.dat") (for example... change the input file to calculate another nucleus apart from 90Zr.
 
 To plot all of the dipole polarisabilities do:
 root

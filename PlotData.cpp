@@ -42,6 +42,7 @@
     
     ge2->SetPoint(0,208,19.8);//208Pb
     ge2->SetPoint(1,90,3.69737);//90Zr
+    ge2->SetPoint(2,112,5.22459);//112Sn
     //    ge2->SetPoint(2,92,);//92Zr
     ge2->SetMarkerStyle(8);
     ge2->SetMarkerColor(2);
