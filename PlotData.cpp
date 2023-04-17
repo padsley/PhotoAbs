@@ -57,10 +57,16 @@
     ge2->SetPoint(5,117,6.82174);//117Sn
     ge2->SetPoint(6,118,7.32616);//118Sn
     ge2->SetPoint(7,119,1.81048);//119Sn
-    ge2->SetPoint(7,120,7.70149);//120Sn
-    ge2->SetPoint(7,122,5.99731);//122Sn
-    ge2->SetPoint(7,124,6.49564);//124Sn
-    //    ge2->SetPoint(2,92,);//92Zr
+    ge2->SetPoint(8,120,7.70149);//120Sn
+    ge2->SetPoint(9,122,5.99731);//122Sn
+    ge2->SetPoint(10,124,6.49564);//124Sn
+    ge2->SetPoint(11,92,3.72134);//92Zr
+    ge2->SetPoint(12,139,9.79147);//139La
+    ge2->SetPoint(13,141,8.2045);//141Pr
+    ge2->SetPoint(14,159,14.6844);//159Tb
+    ge2->SetPoint(15,153,9.41385);//153Eu
+    ge2->SetPoint(16,165,16.5395);//165Ho
+    //ge2->SetPoint(17,181,);//181Ta
     ge2->SetMarkerStyle(8);
     ge2->SetMarkerColor(2);
 
