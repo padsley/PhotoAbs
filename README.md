@@ -24,3 +24,7 @@ git commit -m "message" (make a commit, like a little package of changes to do a
 git push (push the changes to the remote repository)
 
 git pull (pull any changes from the remote repository)
+
+  data.txt contains the information from the complication of Dietrich and Berman, with Z (the proton number), A (the mass number), sigma_neg2 (the integral of the cross section weighted with 1/E_gamma^2) and the uncertainty in sigma_neg2 as the columns.
+  
+  The data directory itself contains the (g,xn) data derived from a number of different sources from EXFOR, mostly data which have been reanalysed as part of the IAEA photonuclear reactions working group.
